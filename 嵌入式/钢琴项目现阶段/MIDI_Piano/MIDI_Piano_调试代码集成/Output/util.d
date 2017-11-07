@@ -1,0 +1,15 @@
+..\Output\util.o: util.c
+..\Output\util.o: util.h
+..\Output\util.o: ..\CMSIS\stm32f10x.h
+..\Output\util.o: ..\CMSIS\core_cm3.h
+..\Output\util.o: D:\uvision\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\util.o: ..\CMSIS\system_stm32f10x.h
+..\Output\util.o: ..\USER\stm32f10x_conf.h
+..\Output\util.o: ..\FWlib\inc\stm32f10x_can.h
+..\Output\util.o: ..\CMSIS\stm32f10x.h
+..\Output\util.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\util.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\util.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\util.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\util.o: ..\FWlib\inc\misc.h
+..\Output\util.o: Msgconfiguration.h

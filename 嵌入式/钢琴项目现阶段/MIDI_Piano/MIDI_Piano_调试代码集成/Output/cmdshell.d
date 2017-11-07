@@ -1,0 +1,14 @@
+..\Output\cmdshell.o: CMDShell.c
+..\Output\cmdshell.o: CMDShell.h
+..\Output\cmdshell.o: ..\CMSIS\stm32f10x.h
+..\Output\cmdshell.o: ..\CMSIS\core_cm3.h
+..\Output\cmdshell.o: D:\uvision\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\cmdshell.o: ..\CMSIS\system_stm32f10x.h
+..\Output\cmdshell.o: ..\USER\stm32f10x_conf.h
+..\Output\cmdshell.o: ..\FWlib\inc\stm32f10x_can.h
+..\Output\cmdshell.o: ..\CMSIS\stm32f10x.h
+..\Output\cmdshell.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\cmdshell.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\cmdshell.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\cmdshell.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\cmdshell.o: ..\FWlib\inc\misc.h

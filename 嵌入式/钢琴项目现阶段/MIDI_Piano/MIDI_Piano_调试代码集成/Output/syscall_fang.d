@@ -1,0 +1,14 @@
+..\Output\syscall_fang.o: SysCall_fang.c
+..\Output\syscall_fang.o: SysCall_fang.h
+..\Output\syscall_fang.o: ..\CMSIS\stm32f10x.h
+..\Output\syscall_fang.o: ..\CMSIS\core_cm3.h
+..\Output\syscall_fang.o: D:\uvision\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\syscall_fang.o: ..\CMSIS\system_stm32f10x.h
+..\Output\syscall_fang.o: ..\USER\stm32f10x_conf.h
+..\Output\syscall_fang.o: ..\FWlib\inc\stm32f10x_can.h
+..\Output\syscall_fang.o: ..\CMSIS\stm32f10x.h
+..\Output\syscall_fang.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\syscall_fang.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\syscall_fang.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\syscall_fang.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\syscall_fang.o: ..\FWlib\inc\misc.h

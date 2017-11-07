@@ -1,0 +1,12 @@
+..\output\tools_fang.o: Tools_fang.c
+..\output\tools_fang.o: Tools_fang.h
+..\output\tools_fang.o: ..\CMSIS\stm32f10x.h
+..\output\tools_fang.o: ..\CMSIS\core_cm3.h
+..\output\tools_fang.o: F:\SoftWareStudy\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\tools_fang.o: ..\CMSIS\system_stm32f10x.h
+..\output\tools_fang.o: ..\USER\stm32f10x_conf.h
+..\output\tools_fang.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\tools_fang.o: ..\CMSIS\stm32f10x.h
+..\output\tools_fang.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\tools_fang.o: ..\FWlib\inc\stm32f10x_tim.h
+..\output\tools_fang.o: ..\FWlib\inc\misc.h

@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER
+-I F:\SoftWareStudy\Keil_v5\ARM\RV31\INC
+-I F:\SoftWareStudy\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include
+-I F:\SoftWareStudy\Keil_v5\ARM\Inc\ST\STM32F10x
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD
+-o ..\output\tools_fang.o --omf_browse ..\output\tools_fang.crf --depend ..\output\tools_fang.d "Tools_fang.c"

@@ -1,0 +1,15 @@
+..\Output\music.o: Music.c
+..\Output\music.o: Music.h
+..\Output\music.o: ..\CMSIS\stm32f10x.h
+..\Output\music.o: ..\CMSIS\core_cm3.h
+..\Output\music.o: D:\uvision\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\music.o: ..\CMSIS\system_stm32f10x.h
+..\Output\music.o: ..\USER\stm32f10x_conf.h
+..\Output\music.o: ..\FWlib\inc\stm32f10x_can.h
+..\Output\music.o: ..\CMSIS\stm32f10x.h
+..\Output\music.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\music.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\music.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\music.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\music.o: ..\FWlib\inc\misc.h
+..\Output\music.o: PWM.h

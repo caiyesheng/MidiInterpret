@@ -1,0 +1,13 @@
+..\Output\uartconfig.o: UartConfig.c
+..\Output\uartconfig.o: UartConfig.h
+..\Output\uartconfig.o: ..\CMSIS\stm32f10x.h
+..\Output\uartconfig.o: ..\CMSIS\core_cm3.h
+..\Output\uartconfig.o: D:\uvision\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\uartconfig.o: ..\CMSIS\system_stm32f10x.h
+..\Output\uartconfig.o: ..\USER\stm32f10x_conf.h
+..\Output\uartconfig.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\uartconfig.o: ..\CMSIS\stm32f10x.h
+..\Output\uartconfig.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\uartconfig.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\uartconfig.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\uartconfig.o: ..\FWlib\inc\misc.h
